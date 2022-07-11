@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Cong Tien</h1>
+<h1 align="center">Hi 👋, I'm Trọng Khoa</h1>
 <h3 align="center">A developer from Viet Nam</h3>
 
 - 🔭 I’m currently working on [upwork](https://www.upwork.com/)
 
 - 🌱 I’m currently learning **Unity, C#...**
 
-- 📫 How to reach me **dev.congtien@gmail.com**
+- 📫 How to reach me **dev.trong.khoa2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nguyễn công tiến" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn công tiến" height="30" width="40" /></a>
+<a href="https://fb.com/Ngô Trọng Khoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ngo trong khoa" height="30" width="40" /></a>
 <a href="https://instagram.com/congtien.r1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="congtien.r1" height="30" width="40" /></a>
 </p>
 
